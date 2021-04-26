@@ -57,12 +57,11 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     
     <item>
       <title>About</title>
-      <link>https://6tamattia.github.io/emerald/about-hugo/</link>
+      <link>https://6tamattia.github.io/emerald/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://6tamattia.github.io/emerald/about-hugo/</guid>
-      <description>This is a site devoted to how my career choices determine me as a person. journey in establishing Biomedical Engineering as a full Undergraduate Course in Greece.
-In 2020, amidst the SARS-CoV-2 pandemic, I graduated the School of Medicine in Athens, Greece. I am aiming to specialize in Neuroradiology, possibly Interventional Neuroradiology. Biomedical Engineering is the center of my interests and since there is no such school in Greece, I am currently pursuing a degree in Computer Engineering.</description>
+      <guid>https://6tamattia.github.io/emerald/about/</guid>
+      <description>This is a site devoted to how my career choices determine me as a person. In 2020, amidst the SARS-CoV-2 pandemic, I graduated the School of Medicine in Athens, Greece. I am aiming to specialize in Neuroradiology, possibly Interventional Neuroradiology. Biomedical Engineering is the center of my interests and since there is no such school in Greece, I am currently pursuing a degree in Computer Engineering. Establishing Biomedical Engineering as an fully accredited and widely known and accepted Undergraduate Course in Greece plays a central in my career path.</description>
     </item>
     
     <item>
